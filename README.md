@@ -1,4 +1,4 @@
-This project is a simple note taking app built with react.
+This project is a simple note taking app built with react. Be sure to run npm install first.
 
 ## Available Scripts
 
